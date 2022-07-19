@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alok12-maker
-- 👀 I’m interested in playing cricket.
+- 👀 I’m ml enthuasiast
 - 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on web pages.
+
 - 📫 contact me -7492985635.
 
 <!---
