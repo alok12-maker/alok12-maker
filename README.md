@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alok12-maker
-- 👀 I’m ml enthuasiast
-- 🌱 I’m currently learning web devlopment
+- 👀 I’m a Full stack developer 
+- 🌱 I’ have good hand's on experience in Nodejs , MONGODB, NOSQL, REACT JS 
 
 - 📫 contact me -7492985635.
 
